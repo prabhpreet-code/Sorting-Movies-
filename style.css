@@ -1,0 +1,16 @@
+#movies-list table{
+  border: solid black 1px;
+  width: 100%;
+}
+
+table tr{
+  border: solid black 1px;
+}
+
+table td{
+  border: solid black 1px;
+}
+
+table th{
+  border: solid black 1px;
+}
